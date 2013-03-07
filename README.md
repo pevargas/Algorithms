@@ -41,3 +41,7 @@ Levitin, A. (2012) Introduction to the Design and Analysis of Algorithms, 3rd Ed
 I/O file implementatoin from Savitch, W. (2009) Problem Solving with C++, 7th Ed. Boston, MA: Pearson Education, Inc.
 
 Line parsing for flags implementation from UCB Course CSCI 2400, Fall 2011. and from GNU (gnu.org/software/libc/manual/html_node/Getopt.html)
+
+Wikipedia. (2012) QuickHull. San Francisco, CA: Wikimedia Foundation, Inc. Accessed 31 March 2012 [en.wikipedia.org/wiki/QuickHull] (en.wikipedia.org/wiki/QuickHull)
+
+Mirzaian, A. (2007) Quick Hull Algorithm. Toronto, Ontario: York University. Accessed 31 March 2012 [www.cse.yorku.ca/~aaw/Hang/quick_hull/Algorithm.html] (www.cse.yorku.ca/~aaw/Hang/quick_hull/Algorithm.html)
